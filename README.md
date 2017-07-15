@@ -7,3 +7,5 @@ Project info: https://hackaday.io/project/19426-iot-plant-monitor
 Libraries
 
 https://github.com/tzapu/WiFiManager
+
+https://github.com/victor999/Libaries-for-ESP8266-NodeMcu/tree/master/NodeMcuFile
